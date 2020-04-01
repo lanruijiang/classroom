@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.table-wh td {
+	width: 100px;
+}
+
+.text-content {
+	display:block;
+	font-size: 15px;
+	text-indent:2em;
+	line-height: 30px;
+}
+
+img{
+	width: 200px;
+}

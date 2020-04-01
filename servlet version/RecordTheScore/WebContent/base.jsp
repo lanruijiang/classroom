@@ -1,0 +1,3 @@
+<%
+String webStie = request.getContextPath();
+%>

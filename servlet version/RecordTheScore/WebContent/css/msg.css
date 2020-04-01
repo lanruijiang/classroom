@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.showmsg{
+	
+	top: 50px;
+	font-size: 30px;
+	position: relative;
+	
+}
+
+.msgStyle{
+	width:100%;
+	text-align:center;
+	color: red;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.buttonImgStype1{
+	height: 30px;
+	width: 30px;
+	
+}
